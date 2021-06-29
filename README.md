@@ -1,10 +1,10 @@
 # 📚 Book Order Management System
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+Explanation about project will be added.
 
 ## Interface
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button. 
+Photos from the project will be added.
 
 ## Explanation Video
 
@@ -22,4 +22,3 @@ The file explorer is accessible using the button in left corner of the navigatio
 
  - Currently Register and Login page is just only for demonstration. It does not register your account and you can not use login with that account. The user is predefined in the code. Register and Login Page should be implemented.
  - Price is fixed for each category and does not special to the book. Price property should be added to the book.
-
