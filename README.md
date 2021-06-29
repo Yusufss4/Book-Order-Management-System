@@ -8,7 +8,7 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 ## Explanation Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pK7_TmLFsKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/pK7_TmLFsKM/0.jpg)](http://www.youtube.com/watch?v=pK7_TmLFsKM "Watch Video")
 
 ## How To Install and Run
 
