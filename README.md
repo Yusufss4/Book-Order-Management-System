@@ -2,6 +2,10 @@
 
 Book Order Management System made for CSE2062.1 Object-Oriented Programming course in Marmara University as a final project. Made in NetBeans IDE using JFrame with the Java language. 
 
+## Explanation Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/pK7_TmLFsKM/0.jpg)](http://www.youtube.com/watch?v=pK7_TmLFsKM "Watch Video")
+
 ## Interface
 
 ![](https://github.com/Yusufss4/Book-Order-Management-System/blob/main/Photos/1LandingPage.png?raw=true)
@@ -11,10 +15,6 @@ Book Order Management System made for CSE2062.1 Object-Oriented Programming cour
 ![](https://github.com/Yusufss4/Book-Order-Management-System/blob/main/Photos/5Register.png?raw=true)
 ![](https://github.com/Yusufss4/Book-Order-Management-System/blob/main/Photos/6Price.png?raw=true)
 ![](https://github.com/Yusufss4/Book-Order-Management-System/blob/main/Photos/7Receipt.png?raw=true)
-
-## Explanation Video
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/pK7_TmLFsKM/0.jpg)](http://www.youtube.com/watch?v=pK7_TmLFsKM "Watch Video")
 
 ## How To Install and Run
 
